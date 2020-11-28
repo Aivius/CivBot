@@ -84,6 +84,8 @@ otheractor
   the MtAugusta bot
   HCF
   CivSPAN
+  Donald Trump
+  Bernie Sanders
   Empty Promises
   Liberty Gazette
   Your mom
@@ -124,6 +126,7 @@ otherplace
   Argentina
   hell
   Femboy Hooters
+  Horny Jail
   heaven
   [player]'s house irl
   voter tree
@@ -155,6 +158,7 @@ otherplayer
 
 funnyplayer
   Ahri
+  Aivius
   AllenY
   Ameliorate
   Amelorate
@@ -162,6 +166,7 @@ funnyplayer
   ashnwill
   awoo
   Bagi
+  BennyZ
   bgbba
   Bonkill
   Convoy
@@ -184,6 +189,7 @@ funnyplayer
   Gjum
   Gobblin
   Godomasta
+  Hantzu
   HenryDraton
   Infra
   Jayms
@@ -195,6 +201,9 @@ funnyplayer
   Metriximor
   Mickale
   MrLlamma
+  Nekodesu
+  Nekoto
+  Nekoya
   ObtainableSpatula
   Okx
   OLivay
@@ -245,6 +254,7 @@ funnynation
   the Holy Jaded Empire
   Imperial Truidence
   Yoahtl
+  Lumion
   Lusitania
   Icenia
   Caledonia
@@ -546,17 +556,22 @@ respondLoop
 
 respondWord
   crying
+  choking
+  hallucinating
   shaking
   oscillating
   deleting vault group
   yelling
   screaming
+  vibing
   vibrating
   overdosing
   collapsing
   writhing
+  whining
   hyperventilating
   starring
+  seething
 
 plugin
   [pluginprefix][pluginbase][pluginsuffix]
@@ -705,5 +720,6 @@ website
   r/minecraft
   r/civclassic
   4chan
+  Facebook
   an obscure Russian forum
   the Israeli Twitch community
